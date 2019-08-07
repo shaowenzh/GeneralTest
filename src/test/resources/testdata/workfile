@@ -1,0 +1,1 @@
+You can open that patch in your favorite viewer or editor, open the files-to-be-changed in your favorite editor, and "hand apply" the patch, using what you know (and git does not) to figure out how "add this here" is to be done when the files-to-be-changed now look little or nothing like what they did when they were changed earlier, with those changes delivered to you as a patch.
