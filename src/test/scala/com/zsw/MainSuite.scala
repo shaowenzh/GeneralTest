@@ -20,4 +20,9 @@ class MainSuite extends QueryTest with SharedSQLContext {
 
     System.out.println(charCounts.collect().mkString(", "))
   }
+
+  test("test2") {
+    var n = 0
+
+  }
 }

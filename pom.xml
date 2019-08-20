@@ -19,11 +19,17 @@
         <scalatest.version>3.0.3</scalatest.version>
         <yarn.version>2.6.3</yarn.version>
         <junit.version>4.12</junit.version>
+        <guava.version>14.0.1</guava.version>
         <test.exclude.tags></test.exclude.tags>
         <test.include.tags></test.include.tags>
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>${guava.version}</version>
+        </dependency>
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
