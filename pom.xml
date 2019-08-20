@@ -15,13 +15,11 @@
 
     <properties>
         <scala.version>2.11.12</scala.version>
-        <spark.internal.version>2.3.2</spark.internal.version>
         <scala.binary.version>2.11</scala.binary.version>
         <java.version>1.8</java.version>
         <CodeCacheSize>512m</CodeCacheSize>
         <test.java.home>${java.home}</test.java.home>
         <scalatest.version>3.0.3</scalatest.version>
-        <yarn.version>2.7.3</yarn.version>
         <junit.version>4.12</junit.version>
         <guava.version>14.0.1</guava.version>
         <jersey-1.version>1.9</jersey-1.version>

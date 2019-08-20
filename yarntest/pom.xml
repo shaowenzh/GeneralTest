@@ -11,6 +11,10 @@
 
     <artifactId>yarntest</artifactId>
 
+    <properties>
+        <yarn.version>2.7.3</yarn.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.apache.hadoop</groupId>
