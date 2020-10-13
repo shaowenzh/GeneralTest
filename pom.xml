@@ -20,7 +20,7 @@
         <CodeCacheSize>512m</CodeCacheSize>
         <test.java.home>${java.home}</test.java.home>
         <scalatest.version>3.0.3</scalatest.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <guava.version>14.0.1</guava.version>
         <jersey-1.version>1.9</jersey-1.version>
         <test.exclude.tags></test.exclude.tags>
