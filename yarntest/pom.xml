@@ -12,7 +12,7 @@
     <artifactId>yarntest</artifactId>
 
     <properties>
-        <yarn.version>2.7.3</yarn.version>
+        <yarn.version>3.2.3</yarn.version>
     </properties>
 
     <dependencies>
